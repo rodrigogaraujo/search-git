@@ -13,7 +13,7 @@ Find someone's profile and see details about them
 - Axios
 
 # Preview
-<img src="https://github.com/rodrigogaraujo/search-git/blob/master/preview.mp4" width="650"/>
+<img src="https://github.com/rodrigogaraujo/search-git/blob/master/previewsearch.gif" width="650"/>
 
 # Contact
 rodrigoaraujo990@gmail.com
